@@ -1,7 +1,7 @@
 {
 	"locale" : "en",
-	"name" : "Your Name",
-	"location" : "Helsinki",
+	"name" : "Pete",
+	"location" : "Denver",
 	"temperatureType" : 0,
-	"dateformat" : "dddd DD.MM.YYYY"
+	"dateformat" : "dddd MM.DD.YYYY"
 }
